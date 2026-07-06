@@ -18,3 +18,4 @@ match menu:
         print('Opção invalida')
 
 print(f'O resultado da operação é {op}')
+print('teste de commit')

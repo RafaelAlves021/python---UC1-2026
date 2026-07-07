@@ -19,3 +19,4 @@ match menu:
 
 print(f'O resultado da operação é {op}')
 print('teste de commit')
+print('teste de push pelo vscode')

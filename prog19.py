@@ -8,3 +8,4 @@ elif n2 > n1:
 else:
     print('Os dois números são iguais')
     print('teste de PULL')
+    print('teste de push pelo vscode')

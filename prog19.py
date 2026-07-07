@@ -9,3 +9,4 @@ else:
     print('Os dois números são iguais')
     print('teste de PULL')
     print('teste de push pelo vscode')
+    print('teste de pusch 2')

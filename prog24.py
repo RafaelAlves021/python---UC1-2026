@@ -1,0 +1,3 @@
+nome = str(input('Dígite seu nome:'))
+for i in range(1,6):
+    print(f'{nome}')
